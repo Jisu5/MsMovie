@@ -13,7 +13,11 @@
 <br>
 
 ### 🏠 [Explore Ms.Movie](http://ec2-3-34-185-6.ap-northeast-2.compute.amazonaws.com/)
-
+```
+test with
+id: test11
+password: test1357
+```
 <br>
 
 ## Tech Stack
